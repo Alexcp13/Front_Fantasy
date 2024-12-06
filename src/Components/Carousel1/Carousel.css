@@ -1,0 +1,10 @@
+.swiper {
+    max-width: 400px;
+    margin: auto;
+}
+
+.swiper-slide img {
+
+    width: 100%;
+    border-radius: 10%;
+}
